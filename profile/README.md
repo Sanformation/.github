@@ -9,12 +9,9 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sanformation&section=header&reversal=false&textBg=false&animation=blink&strokeWidth=0&fontColor=fff&desc=Do%20Follow%20for%20a%20cookie&descAlignY=64"/>
 
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=Sanformation&color=yellow">
-</p>
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Sanformation&color=yellow"/>
 
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+JLG+Github+Profile;I+Am+A+Fullstack+Developer.;I+Have+6+Month+Of+Experiences.">
-
- <div style="text-align: center; ">
+ <div >
     <div style="display: inline-block; height: 100%;">
         <picture>
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanformation&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />

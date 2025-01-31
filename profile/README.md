@@ -1,12 +1,25 @@
-## Hi there 👋
+<h1 align="left">
+    <img src="https://avatars.githubusercontent.com/u/193817883?s=200&v=4" alt="NobleMajo" height="32" />
+    <u>
+        About me
+    </u>
+</h1>
+<p align="center" display="inline">
+<div style="position: relative; width: 100%;">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sanformation&section=header&reversal=false&textBg=false&animation=blink&strokeWidth=0&fontColor=fff&desc=Do%20Follow%20for%20a%20cookie&descAlignY=64"/>
 
-<!--
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Sanformation&color=yellow">
+</p>
 
-**Here are some ideas to get you started:**
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+JLG+Github+Profile;I+Am+A+Fullstack+Developer.;I+Have+6+Month+Of+Experiences.">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ <div style="text-align: center; ">
+    <div style="display: inline-block; height: 100%;">
+        <picture>
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanformation&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
+        </picture>
+    </div>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
